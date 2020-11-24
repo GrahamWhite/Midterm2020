@@ -1,4 +1,4 @@
-# <a href="https://github.com/rhildred/split-test" target="_blank">split-test</a>
+# <a href="https://github.com/rhildred/split-test" target="_blank">Midterm 2020</a>
 
-An engine for splitting the traffic between sites.
+Heroku Link: https://midterm2020-grahamwhite.herokuapp.com/
 

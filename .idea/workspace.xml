@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="590fa0a8-df85-44eb-9f51-d168ea9e53b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/indexthanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/test1/indexthanks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/single.js" beforeDir="false" afterPath="$PROJECT_DIR$/test2/single.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/singlethanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/test2/singlethanks.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kjwMI1E315CLayXDG8A0jJcC23" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="590fa0a8-df85-44eb-9f51-d168ea9e53b8" name="Default Changelist" comment="" />
+      <created>1606227259071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606227259071</updated>
+      <workItem from="1606227260203" duration="2972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

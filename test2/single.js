@@ -13,12 +13,14 @@ var json = {
                 {
                     type: "text",
                     name: "question10",
-                    title: "What was you previous occupation?"
+                    title: "What was your previous occupation?",
+                    isRequired: true
                 },
                 {
                     type: "radiogroup",
                     name: "question7",
                     title: "Are you able to work remotely?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
@@ -34,6 +36,7 @@ var json = {
                     type: "radiogroup",
                     name: "question8",
                     title: "Have you been vaccinated for COVID-19?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
@@ -48,12 +51,14 @@ var json = {
                 {
                     type: "boolean",
                     name: "question9",
-                    title: "Have you ever been convicted of a crime?"
+                    title: "Have you ever been convicted of a crime?",
+                    isRequired: true
                 },
                 {
                     type: "checkbox",
                     name: "question5",
                     title: "What languages do you speak?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
@@ -72,12 +77,14 @@ var json = {
                 {
                     type: "text",
                     name: "question6",
-                    title: "What is your expected hourly wage?"
+                    title: "What is your expected hourly wage?",
+                    isRequired: true
                 },
                 {
                     type: "radiogroup",
                     name: "question4",
                     title: "Do you have a valid driver's license?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
@@ -93,6 +100,7 @@ var json = {
                     type: "radiogroup",
                     name: "question3",
                     title: "Are you eligible to work in Canada?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
@@ -108,6 +116,7 @@ var json = {
                     type: "radiogroup",
                     name: "question2",
                     title: "What type of employment are you looking for?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
@@ -127,6 +136,7 @@ var json = {
                     type: "radiogroup",
                     name: "question1",
                     title: "What is you highest level of education?",
+                    isRequired: true,
                     choices: [
                         {
                             value: "item1",
